@@ -1,0 +1,13 @@
+pandas
+numpy
+spacy
+nltk
+jupyterlab
+matplotlib
+plotly
+transformers
+sentence-transformers
+umap-learn
+hdbscan
+rake-nltk
+streamlit
