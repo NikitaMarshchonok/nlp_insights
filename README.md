@@ -68,7 +68,10 @@ VADER Sentiment Distribution (Plotly)
 
 
 📄 License
-MIT © 2025 Nikita Marshchonok
+MIT © 2025 Nikita Marshchonok 
+
+LimkedIn: https://www.linkedin.com/in/nikita-marshchonok
+Telegram: @nikitamarshchonok
 Feel free to use, modify, and contribute!
 
 
